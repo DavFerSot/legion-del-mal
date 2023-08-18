@@ -10,3 +10,6 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 # Edición realizada desde DavFerSot!!
 
 # Edición realizada desde sote69!!
+
+# Notas
+  Actualización desde DavFerSot
